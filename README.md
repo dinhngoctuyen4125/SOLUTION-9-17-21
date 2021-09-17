@@ -8,7 +8,7 @@ int a[] = {1, 2, 3, 4, 5};<br/>
 __Thực hiện:__<br/>
 int a[] = {1, 5, 4, 3, 2};<br/>
 # Code
-```
+```cpp
 #include <bits/stdc++.h>
 #define int long long
 #define endl '\n'
@@ -60,7 +60,7 @@ signed main(){
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quay trở lại mốc **(Đánh dấu)**, điều này sẽ chỉ thực hiện được khi lúc này i và j chưa ra ngoài phạm vi. Nếu một trong i và j ra ngoài phạm vi thì ta cx sẽ cout ra thằng còn lại như trên thôi, **nhưng**, có điểm đặc biệt là không có trường hợp cả i cả j đều ra ngoài phạm vi, vì vốn dĩ trong 1 **thao tác** hoặc i hoặc j sẽ tăng thêm 1 đơn vị, có n + m thao tác tương ứng với số cuối cùng nhận được có n + m chữ số
 + _Tìm số bé nhất_ : Tương tự trên thôi, chỉ khác là ta sẽ làm riêng **thao tác** đầu tiên, do sẽ có trường hợp số 0 ở đầu
 # Code
-```
+```cpp
 #include <bits/stdc++.h>
 #define int long long
 #define endl '\n'
