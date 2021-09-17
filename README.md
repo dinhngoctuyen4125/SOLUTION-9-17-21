@@ -1,3 +1,4 @@
+[20210917.pdf](https://github.com/dinhngoctuyen4125/SOLUTION-9-17-21/files/7186949/20210917.pdf)
 # 1/ MAGICSEQ
 # Solution
 - Ban đầu ta sẽ khởi tạo mảng a[] với n phần tử sắp xếp tăng dần: ```for(int i = 1; i <= n; i++) a[i] = i``` (Điều này tương đương với chuỗi n - 1 kí tự '<')
